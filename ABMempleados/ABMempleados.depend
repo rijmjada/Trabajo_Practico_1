@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1619624200 source:c:\users\diego\desktop\utn\laboratorio\trabajo_1\abmempleados\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1621200106 source:c:\users\administrador\desktop\utn\laboratorio\trabajo_1\abmempleados\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"sector.h"
+	"Datos.h"
+
+1621200105 c:\users\administrador\desktop\utn\laboratorio\trabajo_1\abmempleados\empleado.h
+	"sector.h"
+
+1621200266 source:c:\users\administrador\desktop\utn\laboratorio\trabajo_1\abmempleados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"sector.h"
+	"informes.h"
+
+1620909294 c:\users\administrador\desktop\utn\laboratorio\trabajo_1\abmempleados\datawarehouse.h
+
+1621200163 c:\users\administrador\desktop\utn\laboratorio\trabajo_1\abmempleados\sector.h
+
+1621200163 source:c:\users\administrador\desktop\utn\laboratorio\trabajo_1\abmempleados\sector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sector.h"
+
+1621200294 c:\users\administrador\desktop\utn\laboratorio\trabajo_1\abmempleados\informes.h
+	"empleado.h"
+
+1621200233 source:c:\users\administrador\desktop\utn\laboratorio\trabajo_1\abmempleados\informes.c
+	"informes.h"
+
+1621198048 c:\users\administrador\desktop\utn\laboratorio\trabajo_1\abmempleados\datos.h
+	"empleado.h"
+
